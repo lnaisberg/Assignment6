@@ -1,0 +1,26 @@
+div{
+	width: 40%;
+	border-style: solid;
+	height: 100px;
+	margin: 25px;
+	background-color: #af6d92;
+}
+
+#one{
+	margin-right: auto;
+	margin-left: auto
+}
+
+#two, #three{
+	display: inline-block;
+}
+
+#five{
+	width: 2%;
+	height: 25px;
+	background-color: #471b33;
+	position: relative;
+	left: 38%;
+	bottom: 56px;
+}
+
